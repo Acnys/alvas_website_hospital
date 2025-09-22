@@ -143,7 +143,7 @@ const ImageSlider = () => {
   <div className="absolute bottom-20 right-8 bg-white/95 backdrop-blur-sm p-6 rounded-xl shadow-xl hidden lg:block font-serif">
     <div className="grid grid-cols-3 gap-6 text-center">
       <div>
-        <div className="text-2xl font-bold text-black mb-1">35+</div>
+        <div className="text-2xl font-bold text-black mb-1">40+</div>
         <div className="text-xs text-gray-800">Years Experience</div>
       </div>
       <div>
@@ -222,7 +222,7 @@ const About = () => (
         </div>
         <h2 className="text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
           Leading Healthcare Excellence for Over 
-          <span className="text-blue-600"> 35 Years</span>
+          <span className="text-blue-600"> 40 Years</span>
         </h2>
         <p className="text-lg text-gray-600 mb-8 leading-relaxed">
           Alva's Health Centre stands as a beacon of medical excellence, combining 
@@ -277,7 +277,7 @@ const About = () => (
         />
         <div className="absolute -top-6 -right-6 bg-blue-600 text-white p-6 rounded-xl shadow-xl">
           <div className="text-center">
-            <div className="text-3xl font-bold mb-1">35+</div>
+            <div className="text-3xl font-bold mb-1">40+</div>
             <div className="text-sm">Years of Excellence</div>
           </div>
         </div>
@@ -295,7 +295,7 @@ const Messages = () => (
         <div className="w-12 h-1 bg-blue-600"></div>
       </div>
       <h2 className="text-3xl lg:text-5xl font-bold text-gray-900 mb-6">
-        A Message from Our <span className="text-blue-600">Director</span>
+        A Message from Our <span className="text-blue-600">Chairman</span>
       </h2>
       <p className="text-xl text-gray-600 max-w-3xl mx-auto">
         Our commitment to patient well-being and medical innovation drives everything we do.
@@ -312,7 +312,7 @@ const Messages = () => (
         <div className="absolute -bottom-6 -right-6 bg-blue-600 text-white p-6 rounded-xl shadow-xl">
           <div className="text-center">
             <div className="text-2xl font-bold mb-1">Dr.Mohan Alva</div>
-            <div className="text-sm">Hospital Director</div>
+            <div className="text-sm">Chairman</div>
           </div>
         </div>
       </div>
@@ -322,7 +322,7 @@ const Messages = () => (
           "At Alva's Health Centre, we believe in a holistic approach to healthcare, where advanced medical science meets genuine human compassion. Our mission is to not only treat illnesses but to foster a community of wellness, ensuring every patient receives personalized, world-class care. We are constantly striving for excellence, investing in the latest technology and nurturing a team of dedicated professionals who share our vision for a healthier future."
         </blockquote>
         <p className="text-lg text-gray-700 mb-8">
-          — Dr. Alva, Director, Alva's Health Centre
+          — Dr. Mohan Alva, Chairman, AEF
         </p>
         <a
           href="/messages"
